@@ -1,6 +1,6 @@
 {
   "_from": "jquery-ui-touch-punch",
-  "_id": "jquery-ui-touch-punch@0.2.3",
+  "_id": "jquery-ui-touch-punch@0.2.4",
   "_inBundle": false,
   "_integrity": "sha1-7tgiQnM7okP0az6HwYQbMIGR2mg=",
   "_location": "/jquery-ui-touch-punch",
@@ -32,16 +32,16 @@
   "bundleDependencies": false,
   "deprecated": false,
   "description": "A duck punch for adding touch events to jQuery UI",
-  "homepage": "https://github.com/furf/jquery-ui-touch-punch",
+  "homepage": "https://github.com/IronSean/jquery-ui-touch-punch",
   "license": "Dual licensed under the MIT or GPL Version 2 licenses.",
   "main": "jquery.ui.touch-punch.js",
   "name": "jquery-ui-touch-punch",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/furf/jquery-ui-touch-punch.git"
+    "url": "git+https://github.com/IronSean/jquery-ui-touch-punch.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.2.3"
+  "version": "0.2.4"
 }
