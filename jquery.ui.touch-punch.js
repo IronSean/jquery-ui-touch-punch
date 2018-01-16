@@ -179,4 +179,4 @@ var jQuery = require('jquery');
     _mouseDestroy.call(self);
   };
 
-})($);
+})(jQuery);
