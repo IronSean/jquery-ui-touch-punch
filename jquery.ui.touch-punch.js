@@ -8,8 +8,6 @@
  *  jquery.ui.widget.js
  *  jquery.ui.mouse.js
  */
-var jQuery = require('jquery');
-
 (function ($) {
 
   // Detect touch support
@@ -179,4 +177,4 @@ var jQuery = require('jquery');
     _mouseDestroy.call(self);
   };
 
-})(jQuery);
+})(jQuery || window.jQuery);
